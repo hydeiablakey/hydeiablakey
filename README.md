@@ -8,4 +8,12 @@ Banner Section
 Mini Introduction
 -->
 
-![Hey! I'm Hydeia, a NYC shy native that loves to find different ways to express her creativity. Experience the journey with me~][nezuko.gif]
+
+Hey! I'm Hydeia, a NYC shy native that loves to find different ways to express her creativity. Experience the journey through my github!
+<img src="nezuko.gif" width="20px">
+
+----
+<!--
+Technologies
+-->
+
