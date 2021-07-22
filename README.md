@@ -35,6 +35,7 @@ Technologies
 ---
 <div align="center">
 <img src="connectheader.png" width="400px">
+<br>
 
 <span>
 <a href="mailto:blakeyhydeia@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" height=25 width=90> 
