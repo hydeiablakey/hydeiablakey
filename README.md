@@ -12,6 +12,7 @@ Mini Introduction
 Hey! I'm Hydeia, a *shy* **NYC native** that loves to find different ways to express her creativity. Experience the journey with me!
 <img src="nezuko.gif" width="20px">
 
+
 ----
 <!--
 Technologies
