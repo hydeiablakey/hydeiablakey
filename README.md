@@ -34,6 +34,11 @@ Technologies
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
 ---
+
+<!--
+Connect with me section 
+-->
+
 <div align="center">
 <img src="connectheader.png" width="400px">
 <br>
