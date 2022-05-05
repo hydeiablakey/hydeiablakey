@@ -2,7 +2,7 @@
 Banner Section
 -->
 
-<a href="https://github.com/hydeiablakey" target="_blank">![banner](hydeiabanner.gif)</a>
+<a href="https://github.com/hydeiablakey" target="_blank">![banner](Banner.gif)</a>
 
 <!--
 Mini Introduction
